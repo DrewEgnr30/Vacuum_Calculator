@@ -1,0 +1,33 @@
+.top-buffer{
+	margin-top: 20px;
+	
+}
+
+.top-page-buffer{
+
+	margin-top: 20%;
+
+}
+
+.btn-sz{
+	
+	width: 150px
+}
+
+.left-buffer{
+	margin-left: 10px
+}
+
+img{
+	
+	height: auto;
+	
+	max-width: 50%;
+}
+
+i{
+	
+	font-size: 30px;
+	color: rgb(0,56,123);
+	
+}
